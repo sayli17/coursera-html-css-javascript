@@ -3,8 +3,9 @@
 }
 
 body{
+	
+	background-image: url("images/bg.jpg");
 	font-family: "Times New Roman", Georgia, Serif;
-	background-image: url(images/bg.jpg);
 	}
 
 h1{
