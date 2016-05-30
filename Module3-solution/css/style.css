@@ -56,7 +56,7 @@ body{
   border: 0;
   border: 1px solid black;
   background-color: #753D05;
-  background-image: url("/images/background.jpg");
+  background-image: url("../images/background.jpg");
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
